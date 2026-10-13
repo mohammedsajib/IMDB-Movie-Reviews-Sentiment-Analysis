@@ -1,1 +1,5 @@
-
+- Python
+- Pandas and NumPy
+- NLTK
+- Scikit-learn
+- Matplotlib and Seaborn
